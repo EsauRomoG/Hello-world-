@@ -1,5 +1,5 @@
-# Hello-world-
-My first repository
+# Hola mundo-
+Mi primer repositoriio.
 
-By Esaú R.
+Por Esaú R.
 05/02/2022
